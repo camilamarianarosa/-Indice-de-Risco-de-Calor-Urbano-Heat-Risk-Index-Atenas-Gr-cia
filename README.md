@@ -1,4 +1,5 @@
 🌡️ Índice de Risco de Calor Urbano (Heat Risk Index) — Atenas, Grécia
+
 Projeto desenvolvido durante o curso GIS for Climate Action (Esri). O objetivo é construir um Heat Risk Index (HRI) combinando três variáveis espaciais para identificar os CEPs de Atenas que mais se beneficiariam do plantio de árvores como parte de um plano de adaptação climática ao calor extremo.
 
 Cenário
